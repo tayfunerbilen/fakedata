@@ -1,0 +1,81 @@
+{
+  "galleries": [
+    {
+      "id": 5,
+      "title": "My First Gallery",
+      "created_at": 1628922660000,
+      "updated_at": 1628957400000,
+      "published_at": 1629565380000,
+      "selected": false,
+      "photos": []
+    },
+    {
+      "id": 1,
+      "title": "Advertising",
+      "created_at": 1629025560000,
+      "updated_at": 1628930880000,
+      "published_at": 1629525360000,
+      "selected": false,
+      "photos": [
+        {
+          "id": 1,
+          "src": "https://images.unsplash.com/photo-1628432136678-43ff9be34064?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=613&q=80"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ticket to Egypt",
+      "created_at": 1629128040000,
+      "updated_at": 1629012840000,
+      "published_at": 1628851020000,
+      "selected": false,
+      "photos": [
+        {
+          "id": 1,
+          "src": "https://images.unsplash.com/photo-1622495805962-d93109c8def4?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        },
+        {
+          "id": 2,
+          "src": "https://images.unsplash.com/photo-1628191139344-11bec156abdc?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        },
+        {
+          "id": 3,
+          "src": "https://images.unsplash.com/photo-1628336675362-bc82a2794f68?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "My First Gallery",
+      "created_at": 1629439320000,
+      "updated_at": 1628902440000,
+      "published_at": 1629342600000,
+      "selected": false,
+      "photos": [
+        {
+          "id": 1,
+          "src": "https://images.unsplash.com/photo-1622495805962-d93109c8def4?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        },
+        {
+          "id": 2,
+          "src": "https://images.unsplash.com/photo-1628191139344-11bec156abdc?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Advertising 4",
+      "created_at": 1628723460000,
+      "updated_at": 1629009360000,
+      "published_at": 1629032160000,
+      "selected": false,
+      "photos": [
+        {
+          "id": 1,
+          "src": "https://images.unsplash.com/photo-1622495805962-d93109c8def4?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        }
+      ]
+    }
+  ]
+}
